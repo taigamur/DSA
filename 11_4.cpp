@@ -45,6 +45,6 @@ int main(){
             }
         }
     }
-    cout << m[1][n] << endl;
+   l cout << m[1][n] << endl;
 
 }
